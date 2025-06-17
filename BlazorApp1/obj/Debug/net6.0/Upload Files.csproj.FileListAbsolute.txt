@@ -1,0 +1,35 @@
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\Upload Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\Upload Files.AssemblyInfoInputs.cache
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\Upload Files.AssemblyInfo.cs
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\Upload Files.csproj.CoreCompileInputs.cache
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\Upload Files.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\Upload Files.RazorAssemblyInfo.cache
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\Upload Files.RazorAssemblyInfo.cs
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\bin\Debug\net6.0\appsettings.json
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\bin\Debug\net6.0\Upload Files.staticwebassets.runtime.json
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\bin\Debug\net6.0\Upload Files.staticwebassets.endpoints.json
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\bin\Debug\net6.0\Upload Files.exe
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\bin\Debug\net6.0\Upload Files.deps.json
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\bin\Debug\net6.0\Upload Files.runtimeconfig.json
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\bin\Debug\net6.0\Upload Files.dll
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\bin\Debug\net6.0\Upload Files.pdb
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\scopedcss\bundle\Upload Files.styles.css
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\scopedcss\projectbundle\Upload Files.bundle.scp.css
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.Upload Files.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.Upload Files.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.build.Upload Files.props
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Upload Files.props
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Upload Files.props
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\Upload Files.dll
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\refint\Upload Files.dll
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\Upload Files.pdb
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\Upload Files.genruntimeconfig.cache
+C:\Users\iyuda\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net6.0\ref\Upload Files.dll

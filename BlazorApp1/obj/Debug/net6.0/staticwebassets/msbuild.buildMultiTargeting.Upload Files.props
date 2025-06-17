@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Upload Files.props" />
+</Project>

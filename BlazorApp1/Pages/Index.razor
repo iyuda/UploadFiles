@@ -1,0 +1,13 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+
+<h1>Upload Files Tool!</h1>
+
+<FileUploader />
+@* <FileUpload AllowedExtensions=".pdf" CustomFileName="@customFileName"
+            DestinationFolder="@($"{Config.GetValue<string>("GuidesPdfDir")}")"
+            Type="FileUpload.UploadEntity.Generic"
+            @bind-UploadInProgress="@uploadInProgress"
+            AfterSuccess="@AfterUploadSuccess"></FileUpload>
+ *@

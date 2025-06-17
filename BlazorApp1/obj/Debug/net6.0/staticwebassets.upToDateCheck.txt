@@ -1,0 +1,23 @@
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+wwwroot\css\open-iconic\FONT-LICENSE
+wwwroot\css\open-iconic\ICON-LICENSE
+wwwroot\css\open-iconic\README.md
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\dragdrop.js
+wwwroot\js\filedrop.js
+wwwroot\js\filedrop_temp.js
+wwwroot\uploads\01-jupyter-notebook-101.ipynb
+wwwroot\uploads\02-saving-a-basic-fastai-model.ipynb
+wwwroot\uploads\03-which-image-models-are-best.ipynb
+wwwroot\uploads\04-how-does-a-neural-net-really-work.ipynb
+wwwroot\uploads\05-linear-model-and-neural-net-from-scratch.ipynb
+wwwroot\uploads\DOT Checklist.bak
+wwwroot\uploads\DOT Checklist.xlsx
