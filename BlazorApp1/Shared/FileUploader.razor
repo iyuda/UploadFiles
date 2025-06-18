@@ -39,6 +39,9 @@
         {
             var stream = file.OpenReadStream(maxAllowedSize: 50 * 1024 * 1024);
             content.Add(new StreamContent(stream), "files", file.Name);
+            var filePath = Path.Combine("your_upload_directory", file.Name);
+            await using FileStream fs = new(filePath, FileMode.Create);
+            await file.OpenReadStream().CopyToAsync(fs);
         }
 
         var response = await Http.PostAsync("api/fileupload", content);
@@ -69,6 +72,7 @@
                 "/api/fileupload",
                 "uploadStatus"
             );
+
         }
     }
 }

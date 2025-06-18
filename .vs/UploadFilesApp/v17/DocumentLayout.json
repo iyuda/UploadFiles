@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|c:\\users\\iyuda\\source\\repos\\blazorapp1\\blazorapp1\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|solutionrelative:blazorapp1\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|c:\\users\\iyuda\\source\\repos\\blazorapp1\\blazorapp1\\shared\\test\\fileuploader - copy.razor (2).temp||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|solutionrelative:blazorapp1\\shared\\test\\fileuploader - copy.razor (2).temp||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|c:\\users\\iyuda\\source\\repos\\blazorapp1\\blazorapp1\\shared\\fileuploader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|solutionrelative:blazorapp1\\shared\\fileuploader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|c:\\users\\iyuda\\source\\repos\\blazorapp1\\blazorapp1\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|solutionrelative:blazorapp1\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|c:\\users\\iyuda\\source\\repos\\blazorapp1\\blazorapp1\\shared\\fileuploader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|solutionrelative:blazorapp1\\shared\\fileuploader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|c:\\users\\iyuda\\source\\repos\\blazorapp1\\blazorapp1\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|solutionrelative:blazorapp1\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|c:\\users\\iyuda\\source\\repos\\blazorapp1\\blazorapp1\\shared\\test\\fileuploader - copy.razor (2).temp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|solutionrelative:blazorapp1\\shared\\test\\fileuploader - copy.razor (2).temp||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|c:\\users\\iyuda\\source\\repos\\blazorapp1\\blazorapp1\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|solutionrelative:blazorapp1\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|c:\\users\\iyuda\\source\\repos\\blazorapp1\\blazorapp1\\uploadfilesapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|solutionrelative:blazorapp1\\uploadfilesapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|c:\\users\\iyuda\\source\\repos\\blazorapp1\\blazorapp1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{95A63EC8-1940-4133-A633-387DFB836C89}|BlazorApp1\\UploadFilesApp.csproj|solutionrelative:blazorapp1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -66,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\BlazorApp1\\Pages\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BlazorApp1\\Pages\\_Layout.cshtml",
@@ -87,31 +83,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FileUploadController.cs",
               "DocumentMoniker": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\BlazorApp1\\Controllers\\FileUploadController.cs",
               "RelativeDocumentMoniker": "BlazorApp1\\Controllers\\FileUploadController.cs",
               "ToolTip": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\BlazorApp1\\Controllers\\FileUploadController.cs",
               "RelativeToolTip": "BlazorApp1\\Controllers\\FileUploadController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:33:38.023Z"
+              "WhenOpened": "2025-06-17T22:33:38.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FileUploader.razor",
               "DocumentMoniker": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\BlazorApp1\\Shared\\FileUploader.razor",
               "RelativeDocumentMoniker": "BlazorApp1\\Shared\\FileUploader.razor",
               "ToolTip": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\BlazorApp1\\Shared\\FileUploader.razor",
               "RelativeToolTip": "BlazorApp1\\Shared\\FileUploader.razor",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAvwEQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-17T22:33:17.143Z"
+              "WhenOpened": "2025-06-17T22:33:17.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FileUploader - Copy.razor (2).temp",
               "DocumentMoniker": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\BlazorApp1\\Shared\\Test\\FileUploader - Copy.razor (2).temp",
               "RelativeDocumentMoniker": "BlazorApp1\\Shared\\Test\\FileUploader - Copy.razor (2).temp",
@@ -147,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\BlazorApp1\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Error.cshtml",
@@ -171,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\BlazorApp1\\Data\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "BlazorApp1\\Data\\WeatherForecast.cs",
@@ -219,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "WeatherForecastService.cs",
               "DocumentMoniker": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\BlazorApp1\\Data\\WeatherForecastService.cs",
               "RelativeDocumentMoniker": "BlazorApp1\\Data\\WeatherForecastService.cs",
@@ -228,17 +226,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T18:36:00.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UploadFilesApp",
-              "DocumentMoniker": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\BlazorApp1\\UploadFilesApp.csproj",
-              "RelativeDocumentMoniker": "BlazorApp1\\UploadFilesApp.csproj",
-              "ToolTip": "C:\\Users\\iyuda\\source\\repos\\BlazorApp1\\BlazorApp1\\UploadFilesApp.csproj",
-              "RelativeToolTip": "BlazorApp1\\UploadFilesApp.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-17T18:34:51.608Z"
             }
           ]
         }
